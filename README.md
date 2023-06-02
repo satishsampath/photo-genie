@@ -5,9 +5,9 @@ This is a demo of using Dreambooth & Stable Diffusion to generate images using y
 
 ## Sample generated images
 <p float="left">
-  <img src="/sample-1.png" width="300" />
-  <img src="/sample-2.png" width="300" /> 
-  <img src="/sample-3.png" width="300" />
+  <img src="/sample-1.png" width="250" />
+  <img src="/sample-2.png" width="250" /> 
+  <img src="/sample-3.png" width="250" />
 </p>
 
 ## Usage
