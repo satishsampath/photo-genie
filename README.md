@@ -1,7 +1,7 @@
 # photo-genie
 Make new photos from your existing ones
 
-This is a demo of using Dreambooth & Stable Diffusion to generate images using your own photos.
+This is a demo of using Dreambooth & Stable Diffusion to generate images using your own photos. The demo runs on Google Colab's free tier, on machines with T4 GPUs (thanks, Google!)
 
 ## Sample generated images
 <p float="left">
